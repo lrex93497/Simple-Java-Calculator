@@ -13,8 +13,8 @@ The GUI supports auto-resize.<br /><br />
 To see what is the current operation mode, see the sign showed in "Mode:", "+" for add, "-" for subtract, "x" for multiply, "/" for divide.
 <br /><br />
 
-To use it, click "Calculator.jar" to open it (Or compile it by yourself). It must first add a number, press the value and click "EXE" in + mode, which means 0 + value. in 
-the below picture, 9 is added. Then, for each operation, choose the operator by pressing the respective button, the "Mode:" value will change to the respective 
+To use it, click "Calculator.jar" to open it (Or compile it by yourself). It must first add a number, press the value and click "EXE" in + mode, which means 0 + value. 
+In the below picture, 9 is added. Then, for each operation, choose the operator by pressing the respective button, the "Mode:" value will change to the respective 
 operator, indicating successful operator change. If there isn't a new input of the operator, the least (default is +) will keep using, which can be used for a 
 continuous operation like continuous adding. Then, input a new value as input(or left as is to use the answer) for calculation. To calculate, click "EXE", the answer 
 will be shown and can be used directly for the next calculation.
